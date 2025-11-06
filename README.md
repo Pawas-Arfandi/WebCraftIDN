@@ -34,7 +34,7 @@ Tujuannya:
 - Halaman About / Tentang  
 - Halaman Kontak  
 - Responsif untuk desktop & mobile  
-- UI modern dan interaktif
+- UI modern dan interaktif  
 
 ---
 
@@ -44,3 +44,7 @@ Tujuannya:
 ```bash
 git clone https://github.com/Pawas-Arfandi/WebCraftIDN.git
 cd WebCraftIDN
+
+2. **Clone repository**
+```bash
+npm install
