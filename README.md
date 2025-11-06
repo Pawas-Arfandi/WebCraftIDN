@@ -45,6 +45,6 @@ Tujuannya:
 git clone https://github.com/Pawas-Arfandi/WebCraftIDN.git
 cd WebCraftIDN
 
-2. **Clone repository**
-```bash
-npm install
+---
+
+## 📦 Test
